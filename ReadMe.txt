@@ -1,12 +1,9 @@
 ========================================================================
-    WIN32 APPLICATION : funkeys Project Overview
+    funkeys : fun with keys :(
 ========================================================================
 
-AppWizard has created this funkeys application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your funkeys application.
-
+Currently: makes Enter function as the Control key if another key is pressed together with it. That's it.
+Ideally maybe some day: an actual key remapper.
 
 funkeys.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
