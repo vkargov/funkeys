@@ -2,8 +2,13 @@
     funkeys : fun with keys :(
 ========================================================================
 
-Currently: makes Enter function as the Control key if another key is pressed together with it. That's it. Doesn't work with some games that capture input directly, and has a complicated relationship with IMEs. I think you need to actually write a new driver to fix that.
-Ideally maybe some day: an actual key remapper.
+Currently: makes Enter function as the Control key if another key is pressed together with it. That's it.
+Doesn't work with some games that capture input directly, and has a complicated relationship with IMEs full of
+misunderstandings and mishaps.
+I think you need to actually write a new driver to fix that.
+
+Ideally maybe some day:
+An actual key remapper.
 
 funkeys.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
