@@ -2,7 +2,7 @@
     funkeys : fun with keys :(
 ========================================================================
 
-Currently: makes Enter function as the Control key if another key is pressed together with it. That's it.
+Currently: makes Enter function as the Control key if another key is pressed together with it. That's it. Doesn't work with some games that capture input directly, and has a complicated relationship with IMEs. I think you need to actually write a new driver to fix that.
 Ideally maybe some day: an actual key remapper.
 
 funkeys.vcxproj
