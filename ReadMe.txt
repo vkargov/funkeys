@@ -5,7 +5,7 @@
 Currently: makes Enter function as the Control key if another key is pressed together with it. That's it.
 
 Ideally maybe some day:
-An actual key remapper.
+An actual customizable key remapper capable of circumvent some Autohotkey limitations.
 
 Defects:
 Doesn't work with some games that capture input directly, and has a complicated relationship with IMEs laden with
